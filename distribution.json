@@ -1,0 +1,10 @@
+{
+  "project": "OrbitCrate Bridge",
+  "catalog_ref": "orbitcrate",
+  "generated_at": "2026-11-14T17:05:00Z",
+  "current": {"version": "1.8.0-rc2", "channel": "preview", "cut_from": "release/1.8"},
+  "releases": [
+    {"version": "1.8.0-rc2", "channel": "preview", "cut_from": "release/1.8", "date": "2026-10-24"},
+    {"version": "1.7.4", "channel": "preview", "cut_from": "release/1.8", "date": "2026-08-07"}
+  ]
+}
